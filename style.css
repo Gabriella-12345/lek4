@@ -1,19 +1,22 @@
 h1{
-text-align: center;
-color:rgb(30, 0, 255);
-background-color: gold;
-margin-left: 10px;
-margin-right: 10px;
-font-family: "Oswald", veranda;
-border: 2px solid darkblue;
-margin: 8px;
-min-width: 886px;
-min-height: 36,667px;
-
-.rutorna{
-text-align: center;
-
-
+    text-align: center;
+    color:rgb(30, 0, 255);
+    background-color: gold;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: "Oswald", veranda;
+    border: 2px solid darkblue;
+    margin: 8px;
+    min-width: 886px;
+    min-height: 36,667px;
 }
 
+.rutorna{
+    text-align: center;
+    background-color: grey;
+    margin-left: 7%;
+    margin-right: 7%;
+    border: 2px solid black;
+    
+   
 }
