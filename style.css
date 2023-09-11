@@ -21,7 +21,10 @@ h1{
     margin-left: 7%;
     margin-right: 7%;
     border: 2px solid  darkblue;
+    
+}
+.bild_nere{
+min-height: 800;
+max-width: auto;
 
-    flex-direction: row;
-    flex-wrap: wrap;
 }
