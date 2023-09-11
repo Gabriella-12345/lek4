@@ -1,3 +1,7 @@
+body{
+background-image: url(img/showcase.jpg);
+}
+
 h1{
     text-align: center;
     color:rgb(30, 0, 255);
@@ -13,10 +17,11 @@ h1{
 
 .rutorna{
     text-align: center;
-    background-color: grey;
+    background-color: rgb(188, 188, 188);
     margin-left: 7%;
     margin-right: 7%;
-    border: 2px solid black;
-    
-   
+    border: 2px solid  darkblue;
+
+    flex-direction: row;
+    flex-wrap: wrap;
 }
